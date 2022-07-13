@@ -1,2 +1,3 @@
 # data-structure
-this is my first repository
+this is first repository
+this is first commit
